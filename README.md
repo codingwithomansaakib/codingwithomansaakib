@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oman saakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oman saakib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oman-saakib-7404b0255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oman saakib" height="30" width="40" /></a>
 <a href="https://instagram.com/oman_saakib07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oman_saakib07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omansaakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omansaakib" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codingwithoman_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingwithoman_07" height="30" width="40" /></a>
